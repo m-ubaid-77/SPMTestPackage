@@ -1,0 +1,6 @@
+framework module CoherentSDK {
+  umbrella header "CoherentSDK.h"
+
+  export *
+  module * { export * }
+}
